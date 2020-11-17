@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/anestesico-dental-flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/custom_modal/Flutter-Marvel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/despesas_pessoais" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/marvel-flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/meals" vcs="Git" />
+  </component>
+</project>
